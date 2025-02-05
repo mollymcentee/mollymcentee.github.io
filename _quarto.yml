@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "Molly McEntee"
   navbar:
     right:
       - text: "About"
