@@ -1,19 +1,24 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "mollymcentee.github.io"
+  title: "Molly McEntee"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: "About"
+        href: index.qmd
+      - Research.qmd
+      - text: "CV"
+        href: "McEntee_CV_2024_short.pdf"
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - custom.scss
+    mainfont: Nunito
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
-

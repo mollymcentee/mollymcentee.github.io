@@ -1,11 +1,31 @@
 ---
-title: "mollymcentee.github.io"
+title: "Molly McEntee"
+format: html
+image: images/dolphins_crop.jpeg
+toc: false 
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 20em
+  links: 
+    - href: mailto:momcente@ucsc.edu
+      icon: envelope
+    - href: https://github.com/mollymcentee
+      icon: github
+    - href: https://scholar.google.com/citations?hl=en&user=X_eI7G4AAAAJ
+      icon: mortarboard
+title-block-banner: images/bytfluke.gif
 ---
 
-This is a Quarto website.
+```{=html}
+<style>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+.quarto-title-banner {
+  margin-top: 0;
+  height: 100%;
+}
 
-```{r}
-1 + 1
+</style>
 ```
+
+## I am a postdoctoral researcher in Ecology and Evolutionary Biology at UC Santa Cruz
