@@ -1,7 +1,7 @@
 ---
 title: "Molly McEntee"
 format: html
-image: images/dolphins_crop.jpeg
+image: images/McEntee_headshot.jpeg
 toc: false 
 about: 
   template: trestles

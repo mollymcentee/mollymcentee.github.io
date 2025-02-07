@@ -1,0 +1,25 @@
+---
+title: "scrap"
+format: html
+---
+
+
+sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - text: "Home"
+        href: "Index.qmd"
+      - Research.qmd
+      - text: "CV"
+        href: "McEntee_CV_2024.pdf"
+        
+        
+<style>
+img {
+  border-radius: 70%;
+}
+</style>
+
+<img src = "images/McEntee_photo.jpg" 
+  style="width:30%;height:20%;position:relative; right:300px;">
