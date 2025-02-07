@@ -5,5 +5,12 @@
     "title": "Research",
     "section": "Elephant seal",
     "text": "Elephant seal"
+  },
+  {
+    "objectID": "scrap.html",
+    "href": "scrap.html",
+    "title": "scrap",
+    "section": "",
+    "text": "sidebar: style: “floating” search: false contents: - text: “Home” href: “Index.qmd” - Research.qmd - text: “CV” href: “McEntee_CV_2024.pdf”"
   }
 ]
